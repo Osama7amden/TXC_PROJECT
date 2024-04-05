@@ -1003,9 +1003,11 @@ header .nav:hover + .menu {
   gap: 40px;
   align-items: center;
 }
+.work .container .left_img{
+  flex: 1;
+}
 .work .container .left_img img {
   width: 100%;
-  flex: 1;
 }
 .work .container .box {
   border: 3px solid white;

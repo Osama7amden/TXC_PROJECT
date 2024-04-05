@@ -1019,6 +1019,10 @@ header .nav:hover + .menu {
   z-index: 1;
 }
 @media (max-width: 767px) {
+  .work .container {
+    justify-content: center;
+    align-items: center;
+  }
   .work .container .box {
     flex-direction: row;
     flex-wrap: wrap;

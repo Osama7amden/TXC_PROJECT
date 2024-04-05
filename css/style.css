@@ -999,13 +999,12 @@ header .nav:hover + .menu {
   background-color: var(--section-background);
 }
 .work .container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  display: flex;
   gap: 40px;
   align-items: center;
 }
 .work .container .left_img img {
-  width: 100%;
+  width: 400px;
 }
 .work .container .box {
   border: 3px solid white;

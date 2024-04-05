@@ -1024,7 +1024,7 @@ header .nav:hover + .menu {
     flex-wrap: wrap;
     justify-content: center;
     padding: 10px;
-    width: 350px;
+    width: 300px;
   }
   .work .container .box .text {
     margin-top: 20px;

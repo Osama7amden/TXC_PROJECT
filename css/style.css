@@ -1021,6 +1021,7 @@ header .nav:hover + .menu {
   .work .container {
     justify-content: center;
     align-items: center;
+    flex-direction: column;
   }
   .work .container .box {
     flex-direction: row;
@@ -1035,7 +1036,7 @@ header .nav:hover + .menu {
     margin-left: 0;
   }
   .work .container .left_img img {
-    width: 80%;
+    width: 335px;
   }
 }
 .work .container .box::after {

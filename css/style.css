@@ -1004,7 +1004,8 @@ header .nav:hover + .menu {
   align-items: center;
 }
 .work .container .left_img img {
-  width: 400px;
+  width: 100%;
+  flex: 1;
 }
 .work .container .box {
   border: 3px solid white;

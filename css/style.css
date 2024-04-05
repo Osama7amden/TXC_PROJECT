@@ -1006,9 +1006,6 @@ header .nav:hover + .menu {
 .work .container .left_img{
   flex: 1;
 }
-.work .container .left_img img {
-  width: 100%;
-}
 .work .container .box {
   border: 3px solid white;
   padding: 30px;

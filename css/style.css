@@ -414,6 +414,11 @@ header .nav:hover + .menu {
     display: none;
   }
 }
+@media (max-width: 991px) {
+  .landing .container .img img {
+    display: none;
+  }
+}
 .landing a i {
   color: var(--main-color);
 }
